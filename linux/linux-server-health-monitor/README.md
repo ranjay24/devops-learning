@@ -1,0 +1,1 @@
+A collection of bash scripts to monitor and report Linux server health — disk usage, memory, processes, and logs — built while learning Linux for DevOps.
