@@ -30,10 +30,10 @@ Cloud, DevOps, and DSA.
 | HashMaps | 0 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
-| Binary Search | 0 |
+| Binary Search | 2 |
 | Trees | 0 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
-| **Total** | **13** |
+| **Total** | **15** |
 
 ---
